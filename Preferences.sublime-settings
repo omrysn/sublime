@@ -12,7 +12,7 @@
 		"isometry",
 		"abelian"
 	],
-	"color_scheme": "Packages/User/themes/Monokai.tmTheme",
+	"color_scheme": "Packages/User/themes/Monokai-Black.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
